@@ -1,0 +1,120 @@
+Variáveis do Programa Bolsa Família (PBF) - A partir de MAR/2023
+
+codigo_ibge: Código ibge do município.
+anomes: Ano e mês de referência.
+sicon_qtde_benef_perfil_educacao_4_5_anos_apartir_2023_l: Total de beneficiários com perfil da condicionalidade de Educação (4 a 5 anos)
+sicon_qtde_benef_acomp_educacao_4_5_anos_apartir_2023_l: Beneficiários acompanhados na Educação (4 a 5 anos)
+sicon_perc_benef_acomp_educacao_4_5_anos_apartir_2023_d: Percentual de beneficiários acompanhados pela educação (4 a 5 anos)
+sicon_qtde_acomp_freq_acima_4_5_anos_apartir_2023_l: Beneficiários acompanhados com frequência acima da exigida ( 4 a 5 anos - 60%)
+sicon_perc_acomp_freq_acima_4_5_anos_apartir_2023_d: Percentual de beneficiários acompanhados com frequência acima da exigida ( 4 a 5 anos - 60%)
+sicon_qtde_benef_sem_info_freq_4_5_anos_apartir_2023_l: Total de beneficiários sem informação de frequência escolar (4 a 5 anos)
+sicon_perc_benef_sem_info_freq_4_5_anos_apartir_2023_d: Beneficiários sem informação de frequência escolar (4 a 5 anos)
+sicon_qtde_benef_acomp_sem_info_freq_4_5_anos_apartir_2023_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (4 a 5 anos)
+sicon_qtde_benef_nao_localizados_4_5_anos_apartir_2023_l: Beneficiários não localizados no acompanhamento pela educação (4 a 5 anos)
+sicon_perc_benef_nao_localizados_4_5_anos_apartir_2023_d: Percentual de beneficiários não localizados no acompanhamento pela educação (4 a 5 anos)
+sicon_qtde_benef_perfil_educacao_6_15_anos_apartir_2023_l: Total de beneficiários com perfil da condicionalidade de Educação (6 a 15 anos)
+sicon_qtde_benef_acomp_educacao_6_15_anos_apartir_2023_l: Beneficiários acompanhados na Educação (6 a 15 anos)
+sicon_perc_benef_acomp_educacao_6_15_anos_apartir_2023_d: Percentual de beneficiários acompanhados pela educação (6 a 15 anos)
+sicon_qtde_acomp_freq_acima_6_15_anos_apartir_2023_l: Beneficiários acompanhados com frequência acima da exigida ( 6 a 15 anos - 75%)
+sicon_perc_acomp_freq_acima_6_15_anos_apartir_2023_d: Percentual de beneficiários acompanhados com frequência acima da exigida (6 a 15 anos - 75%)
+sicon_qtde_benef_sem_info_freq_6_15_anos_apartir_2023_l: Beneficiários sem informação de frequência escolar (6 a 15 anos)
+sicon_perc_benef_sem_info_freq_6_15_anos_apartir_2023_d: Percentual de beneficiários sem informação de frequência escolar (6 a 15 anos)
+sicon_qtde_benef_acomp_sem_info_freq_6_15_anos_apartir_2023_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (6 a 15 anos)
+sicon_qtde_benef_nao_localizados_6_15_anos_apartir_2023_l: Beneficiários não localizados no acompanhamento pela educação (6 a 15 anos)
+sicon_perc_benef_nao_localizados_6_15_anos_apartir_2023_d: Percentual de beneficiários não localizados no acompanhamento pela educação (6 a 15 anos)
+sicon_qtde_benef_perfil_educacao_16_17_anos_apartir_2023_l: Total de beneficiários com perfil educação (16 e 17 anos) - BCA
+sicon_qtde_benef_acomp_educacao_16_17_anos_apartir_2023_l: Beneficiários acompanhados na Educação (16 e 17 anos) - BCA
+sicon_perc_benef_acomp_educacao_16_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados pela educação (16 e 17 anos) - BCA
+sicon_qtde_acomp_freq_acima_16_17_anos_apartir_2023_l: Beneficiários acompanhados com frequência acima da exigida (16 a 17 anos - 75%) - BCA
+sicon_perc_acomp_freq_acima_16_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados com frequência acima da exigida (16 a 17 anos - 75%) - BCA
+sicon_qtde_benef_sem_info_freq_16_17_anos_apartir_2023_l: Beneficiários sem informação de frequência escolar (16 a 17 anos) - BCA
+sicon_perc_benef_sem_info_freq_16_17_anos_apartir_2023_d: Percentual de beneficiários sem informação de frequência escolar (16 a 17 anos) - BCA
+sicon_qtde_benef_acomp_sem_info_freq_16_17_anos_apartir_2023_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (16 a 17 anos) - BCA
+sicon_qtde_benef_nao_localizados_16_17_anos_apartir_2023_l: Beneficiários não localizados no acompanhamento pela educação (16 e 17 anos) - BCA
+sicon_perc_benef_nao_localizados_16_17_anos_apartir_2023_d: Percentual de beneficiários não localizados no acompanhamento pela educação (16 e 17 anos) - BCA
+sicon_qtde_benef_perfil_educacao_4_17_anos_apartir_2023_l: Total de beneficiários com perfil da condicionalidade de Educação (4 a 17 anos)
+sicon_qtde_benef_acomp_educacao_4_17_anos_apartir_2023_l: Beneficiários acompanhados na Educação (4 a 17 anos)
+sicon_perc_benef_acomp_educacao_4_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados pela educação (4 a 17 anos)
+sicon_qtde_acomp_freq_acima_4_17_anos_apartir_2023_l: Beneficiários acompanhados com frequência acima da exigida (4 a 17 anos)
+sicon_perc_acomp_freq_acima_4_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados com frequência acima da exigida (4 a 17 anos)
+sicon_qtde_benef_sem_info_freq_4_17_anos_apartir_2023_l: Beneficiários sem informação de frequência escolar (4 a 17 anos)
+sicon_perc_benef_sem_info_freq_4_17_anos_apartir_2023_d: Percentual de beneficiários sem informação de frequência escolar (4 a 17 anos)
+sicon_qtde_benef_acomp_sem_info_freq_4_17_anos_apartir_2023_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (4 a 17 anos)
+sicon_qtde_benef_nao_localizados_4_17_anos_apartir_2023_l: Beneficiários não localizados no acompanhamento pela educação (4 a 17 anos)
+sicon_perc_benef_nao_localizados_4_17_anos_apartir_2023_d: Percentual de beneficiários não localizados no acompanhamento pela educação (4 a 17 anos)
+sicon_qtde_benef_perfil_educacao_6_17_anos_apartir_2023_l: Total de beneficiários com perfil da condicionalidade de Educação (6 a 17 anos)
+sicon_qtde_benef_acomp_educacao_6_17_anos_apartir_2023_l: Beneficiários acompanhados na Educação (6 a 17 anos)
+sicon_perc_benef_acomp_educacao_6_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados pela educação (6 a 17 anos)
+sicon_qtde_acomp_freq_acima_6_17_anos_apartir_2023_l: Beneficiários acompanhados com frequência acima da exigida ( 6 a 17 anos - 75%)
+sicon_perc_acomp_freq_acima_6_17_anos_apartir_2023_d: Percentual de beneficiários acompanhados com frequência acima da exigida (6 a 17 anos - 75%)
+sicon_qtde_benef_sem_info_freq_6_17_anos_apartir_2023_l: Beneficiários sem informação de frequência escolar (6 a 17 anos)
+sicon_perc_benef_sem_info_freq_6_17_anos_apartir_2023_d: Percentual de beneficiários sem informação de frequência escolar (6 a 17 anos)
+sicon_qtde_benef_acomp_sem_info_freq_6_17_anos_apartir_2023_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência(6 a 17 anos)
+sicon_qtde_benef_nao_localizados_6_17_anos_apartir_2023_l: Beneficiários não localizados no acompanhamento pela educação (6 a 17 anos)
+sicon_perc_benef_nao_localizados_6_17_anos_apartir_2023_d: Percentual de beneficiários não localizados no acompanhamento pela educação (6 a 17 anos)
+Variáveis do Programa Auxílio Brasil (PAB) - JUL/2022 A NOV/2022
+
+codigo_ibge: Código ibge do município.
+anomes: Ano e mês de referência.
+sicon_qtde_benef_perfil_educacao_4_5_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (4 a 5 anos)
+sicon_qtde_benef_acomp_educacao_4_5_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (4 a 5 anos)
+sicon_perc_benef_acomp_educacao_4_5_anos_pab_d: Percentual de beneficiários acompanhados pela educação (4 a 5 anos)
+sicon_qtde_acomp_freq_acima_4_5_anos_pab_l: Beneficiários acompanhados com frequência acima da exigida ( 4 a 5 anos - 60%)
+sicon_perc_acomp_freq_acima_4_5_anos_pab_d: Percentual de beneficiários acompanhados com frequência acima da exigida ( 4 a 5 anos - 60%)
+sicon_qtde_benef_sem_info_freq_4_5_anos_pab_l: Beneficiários sem informação de frequência escolar (4 a 5 anos)
+sicon_perc_benef_sem_info_freq_4_5_anos_pab_d: Percentual de beneficiários sem informação de frequência escolar (4 a 5 anos)
+sicon_qtde_benef_acomp_sem_info_freq_4_5_anos_pab_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (4 a 5 anos)
+sicon_qtde_benef_nao_localizados_4_5_anos_pab_l: Beneficiários não localizados no acompanhamento pela educação (4 a 5 anos)
+sicon_perc_benef_nao_localizados_4_5_anos_pab_d: Percentual de beneficiários não localizados no acompanhamento pela educação (4 a 5 anos)
+sicon_qtde_benef_perfil_educacao_6_15_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (6 a 15 anos)
+sicon_qtde_benef_acomp_educacao_6_15_anos_pab_l: Beneficiários acompanhados na Educação (6 a 15 anos)
+sicon_perc_benef_acomp_educacao_6_15_anos_pab_d: Percentual de beneficiários acompanhados pela educação (6 a 15 anos)
+sicon_qtde_acomp_freq_acima_6_15_anos_pab_l: Beneficiários acompanhados com frequência acima da exigida (6 a 15 anos - 75%)
+sicon_perc_acomp_freq_acima_6_15_anos_pab_d: Percentual de beneficiários acompanhados com frequência acima da exigida (6 a 15 anos - 75%)
+sicon_qtde_benef_sem_info_freq_6_15_anos_pab_l: Total de beneficiários sem informação de frequência escolar (6 a 15 anos)
+sicon_perc_benef_sem_info_freq_6_15_anos_pab_d: Beneficiários sem informação de frequência escolar (6 a 15 anos)
+sicon_qtde_benef_acomp_sem_info_freq_6_15_anos_pab_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (6 a 15 anos)
+sicon_qtde_benef_nao_localizados_6_15_anos_pab_l: Beneficiários não localizados no acompanhamento pela educação (6 a 15 anos)
+sicon_perc_benef_nao_localizados_6_15_anos_pab_d: Percentual de beneficiários não localizados no acompanhamento pela educação (6 a 15 anos)
+sicon_qtde_benef_perfil_educacao_16_17_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (16 e 17 anos) - BCA
+sicon_qtde_benef_acomp_educacao_16_17_anos_pab_l: Beneficiários acompanhados na Educação (16 e 17 anos) - BCA
+sicon_perc_benef_acomp_educacao_16_17_anos_pab_d: Percentual de beneficiários acompanhados pela educação (16 e 17 anos) - BCA
+sicon_qtde_acomp_freq_acima_16_17_anos_pab_l: Beneficiários acompanhados com frequência acima da exigida (16 a 17 anos - 75%) - BCA
+sicon_perc_acomp_freq_acima_16_17_anos_pab_d: Percentual de beneficiários acompanhados com frequência acima da exigida (16 a 17 anos - 75%) - BCA
+sicon_qtde_benef_sem_info_freq_16_17_anos_pab_l: Beneficiários sem informação de frequência escolar (16 a 17 anos) - BCA
+sicon_perc_benef_sem_info_freq_16_17_anos_pab_d: Percentual de beneficiários sem informação de frequência escolar (16 a 17 anos) - BCA
+sicon_qtde_benef_acomp_sem_info_freq_16_17_anos_pab_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (16 a 17 anos) - BCA
+sicon_qtde_benef_nao_localizados_16_17_anos_pab_l: Beneficiários não localizados no acompanhamento pela educação (16 e 17 anos) - BCA
+sicon_perc_benef_nao_localizados_16_17_anos_pab_d: Percentual de beneficiários não localizados no acompanhamento pela educação (16 e 17 anos) - BCA
+sicon_qtde_benef_perfil_educacao_18_21_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (18 a 21 anos) - BCJ
+sicon_qtde_benef_acomp_educacao_18_21_anos_pab_l: Beneficiários acompanhados na Educação (18 a 21 anos) - BCJ
+sicon_perc_benef_acomp_educacao_18_21_anos_pab_d: Percentual de beneficiários acompanhados pela educação (18 a 21 anos) - BCJ
+sicon_qtde_acomp_freq_acima_18_21_anos_pab_l: Beneficiários acompanhados com frequência acima da exigida (18 a 21 anos - 75%) - BCJ
+sicon_perc_acomp_freq_acima_18_21_anos_pab_d: Percentual de beneficiários acompanhados com frequência acima da exigida (18 a 21 anos - 75%) - BCJ
+sicon_qtde_benef_sem_info_freq_18_21_anos_pab_l: Beneficiários sem informação de frequência escolar (18 a 21 anos) - BCJ
+sicon_perc_benef_sem_info_freq_18_21_anos_pab_d: Percentual de beneficiários sem informação de frequência escolar (18 a 21 anos) - BCJ
+sicon_qtde_benef_acomp_sem_info_freq_18_21_anos_pab_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (18 a 21 anos) - BCJ
+sicon_qtde_benef_nao_localizados_18_21_anos_pab_l: Beneficiários não localizados no acompanhamento pela educação (18 a 21 anos) - BCJ
+sicon_perc_benef_nao_localizados_18_21_anos_pab_d: Percentual de beneficiários não localizados no acompanhamento pela educação (18 a 21 anos) - BCJ
+sicon_qtde_benef_perfil_educacao_4_21_anos_pab_l: Total de beneficiários com perfil da condicionalidade de Educação (4 a 21 anos)
+sicon_qtde_benef_acomp_educacao_4_21_anos_pab_l: Beneficiários acompanhados na Educação (4 a 21 anos)
+sicon_perc_benef_acomp_educacao_4_21_anos_pab_d: Percentual de beneficiários acompanhados pela educação (4 a 21 anos)
+sicon_qtde_acomp_freq_acima_4_21_anos_pab_l: Beneficiários acompanhados com frequência acima da exigida (4 a 21 anos)
+sicon_perc_acomp_freq_acima_4_21_anos_pab_d: Percentual de beneficiários acompanhados com frequência acima da exigida (4 a 21 anos)
+sicon_qtde_benef_sem_info_freq_4_21_anos_pab_l: Beneficiários sem informação de frequência escolar (4 a 21 anos)
+sicon_perc_benef_sem_info_freq_4_21_anos_pab_d: Percentual de beneficiários sem informação de frequência escolar (4 a 21 anos)
+sicon_qtde_benef_acomp_sem_info_freq_4_21_anos_pab_l: Beneficiários localizados no acompanhamento pela educação mas sem informação de frequência (4 a 21 anos)
+sicon_qtde_benef_nao_localizados_4_21_anos_pab_l: Beneficiários não localizados no acompanhamento pela educação (4 a 21 anos)
+sicon_perc_benef_nao_localizados_4_21_anos_pab_d: Percentual de beneficiários não localizados no acompanhamento pela educação (4 a 21 anos)
+Variáveis do Programa Bolsa Família (PBF) - MAR/2010 A NOV/2019
+
+codigo_ibge: Código ibge do município.
+anomes: Ano e mês de referência.
+sicon_qtde_benef_perfil_educacao_6_15_anos_ate_2019_l: Total de beneficiários com perfil da condicionalidade de Educação (6 a 15 anos)
+sicon_qtde_benef_acomp_educacao_6_15_anos_ate_2019_l: Total de beneficiários acompanhados pela educação (6 a 15 anos)
+sicon_qtde_acomp_freq_acima_6_15_anos_ate_2019_l: Beneficiários acompanhados com frequência acima da exigida ( 6 a 15 anos - 85%)
+sicon_qtde_benef_sem_info_6_15_anos_ate_2019_l: Beneficiários sem informação de frequência escolar (6 a 15 anos)
+sicon_qtde_benef_perfil_educacao_16_17_anos_ate_2019_l: Total de beneficiários com perfil da condicionalidade de Educação (16 a 17 anos)
+sicon_qtde_benef_acomp_educacao_16_17_anos_ate_2019_l: Beneficiários acompanhados na Educação (16 a 17 anos)
+sicon_qtde_acomp_freq_acima_16_17_anos_ate_2019_l: Beneficiários acompanhados com frequência acima da exigida (16 a 17 anos - 75%)
+sicon_qtde_benef_sem_info_16_17_anos_ate_2019_l: Total de beneficiários sem informação de frequência escolar (16 a 17 anos)
