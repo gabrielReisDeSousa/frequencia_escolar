@@ -1,0 +1,9 @@
+IGD-M PBF - Taxas
+
+codigo_ibge: Código IBGE do município
+anomes_s: Ano e mês de referência
+tx_acomp_freq_escol_f: TAFE - Taxa de Acompanhamento de Frequência Escolar - (relação entre a quantidade de crianças e adolescentes com informações de frequência escolar e o total de crianças e adolescentes de 6 a 15 anos de idade que pertencem a famílias beneficiárias do Bolsa Família no município)
+tx_acomp_agenda_saude_f: TAAS - Taxa de Acompanhamento de Agenda de Saúde
+tx_atual_cad_f: TAC - Taxa de Atualização Cadastral - (relação entre a quantidade de famílias que tiveram seus dados cadastrais atualizados nos últimos dois anos e a quantidade de famílias incluídas no Cadastro Único (com renda mensal per capita de até meio salário mínimo)
+igdm_f: Índice de Gestão Descentralizada por Município
+igd_pbf_fator_redutor_conforme_saldo_f: Fator redutor conforme saldo (a partir de 2023).
